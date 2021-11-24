@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @catursawahlunto
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning nextjs
