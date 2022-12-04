@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @catursawahlunto
+- 👋 Hi, My Name is catur
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning nextjs
+
