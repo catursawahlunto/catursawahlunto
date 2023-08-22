@@ -1,5 +1,5 @@
 
- <img  style="width:100%;height:100%" src="https://raw.githubusercontent.com/catursawahlunto/catursawahlunto/main/background.svg"/>
+ <img  style="width:100%;height:100%;postion:absolute" src="https://raw.githubusercontent.com/catursawahlunto/catursawahlunto/main/background.svg"/>
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/catursawahlunto/catursawahlunto/main/my-name.svg"/>
 </h1>
