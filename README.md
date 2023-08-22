@@ -1,3 +1,4 @@
+<style>
 body {
     margin: auto;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
@@ -67,7 +68,7 @@ body {
         transform: translateX(1);
     }
 }
-
+</style>
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/catursawahlunto/catursawahlunto/main/my-name.svg"/>
 </h1>
