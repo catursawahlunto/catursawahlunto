@@ -1,5 +1,5 @@
 <h1 align="center">
-  CATUR IS NOT GAMES
+ <img src="https://raw.githubusercontent.com/catursawahlunto/catursawahlunto/main/my-name.svg"/>
 </h1>
 
 ## Hey! 👋
